@@ -1,1 +1,3 @@
-this app is made and released for the results of the tests that have been made. this app is based on free and free of charge. if everything has changed (it cant work as usual) then ill update it soon.
+this tool is only used for purposes.
+do not abuse or even make people lose.
+for how to use it if you dont understand it please make it in "Issues"
